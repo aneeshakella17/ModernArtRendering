@@ -1,0 +1,7 @@
+def hello():
+    pass
+
+
+hello();
+
+
