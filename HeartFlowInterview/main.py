@@ -1,7 +1,0 @@
-def hello():
-    pass
-
-
-hello();
-
-
